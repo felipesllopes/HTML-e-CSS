@@ -1,0 +1,55 @@
+body{
+    background-image: url(stoicism.jpg);
+    background-attachment: fixed; /*imagem percorre na tela junto com a rolagem*/
+    background-repeat: no-repeat; /*não repetir a imagem*/
+    background-size: 100% 100%; /*imagem ocupando 100% da tela*/
+    background-position: bottom left;
+    text-align: center;
+    width: 1100px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-bottom: 50px;
+    color: aliceblue;
+    text-shadow: 
+               -1px -1px 0px #000, 
+               -1px 1px 0px #000,                    
+                1px -1px 0px #000,                  
+                1px 0px 0px #000;
+}
+
+h1{
+    background-color: rgb(188, 23, 23);
+    margin-bottom: 0;
+    padding: 15px 0;
+    color: rgb(255, 255, 255);
+}
+
+p{
+    text-align: justify;
+    line-height: 1.2;
+    font-size: 19px;
+}
+
+.img-filosofo{
+    float: left;
+    padding-right: 10px;
+}
+
+.proxima-pag{
+    text-align: right;
+    display: inline;
+}
+
+.proxima-pag:hover{
+    color: red;
+}
+
+.referencias p{
+    font-size: 16px;
+    text-align: left;
+}
+
+.referencias a{
+    color: aqua;
+}
