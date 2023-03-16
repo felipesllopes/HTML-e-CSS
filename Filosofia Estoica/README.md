@@ -1,5 +1,5 @@
 # Pagina-Filosofia-Estoica
 
-Esta página conta um breve resumo sobre a Filosofia Estoica do Império Romano: o que foi, resume a história e apresenta algumas frases de alguns de seus principais pensadores.
+Esta página conta um breve resumo sobre a Filosofia Estoica. O que é, surgimento, fundador, e apresenta algumas frases de alguns de seus principais pensadores. (Epicteto, Sêneca e Marco Aurélio)
 
-![stoicism](https://user-images.githubusercontent.com/99768939/182739980-e69a9e36-a562-41cf-8d3c-49bb17f27aff.jpg)
+![stoic](https://user-images.githubusercontent.com/99768939/225618452-c6ce91b3-14e3-4d97-9a5f-2428a2d2b433.png)
